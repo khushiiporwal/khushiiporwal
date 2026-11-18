@@ -10,7 +10,7 @@ I enjoy working with data, finding meaningful patterns, and presenting insights 
 Here, you'll find data analytics projects and dashboards I've built as I continue developing my skills.
 
 ---
-### 📌 Featured Project: [Where Does the Profit Go? Superstore Sales Analysis (2014–2017)](https://github.com)
+### 📌 Featured Project: [Where Does the Profit Go? Superstore Sales Analysis (2014–2017)](https://github.com/khushiiporwal/superstore-sales-profitability-analysis)
 
 An end-to-end **MySQL**, **Power Query**, and **Power BI** case study analyzing 9,994 retail order lines ($2.30M sales, $286.4K profit) to uncover why revenue growth failed to translate into margin expansion.
 * **Key Finding:** Identified the **"20% Profit Cliff"**—sales discounted above 20% accounted for just 16% of revenue ($362.7K) yet lost **-$135.4K** (eroding 47% of total profit).
